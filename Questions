@@ -1,0 +1,37 @@
+Here are 20 interview questions for data types, operators, conditional statements, looping statements, and functions:
+
+Data Types:
+
+What are the different data types in Python?
+What is the difference between mutable and immutable data types?
+What is type conversion and how is it done in Python?
+What is a variable in Python and how is it declared?
+What is the difference between local and global variables?
+Operators:
+
+What are the different types of operators in Python?
+What is the difference between == and is operator?
+What is the ternary operator in Python?
+What is operator precedence and how is it determined in Python?
+What is the difference between logical AND and bitwise AND operator?
+Conditional Statements:
+
+What are conditional statements in Python?
+What is the difference between if and elif statements?
+What is the purpose of the else statement?
+How is nested if statement used in Python?
+What is the difference between while and do-while loop?
+Looping Statements:
+
+What is looping in Python?
+What is the difference between for and while loop?
+What is the purpose of break and continue statements in Python?
+How is nested loop used in Python?
+What is the difference between range and xrange function in Python?
+Functions:
+
+What is a function in Python?
+What is the difference between parameters and arguments in a function?
+What is the purpose of the return statement in a function?
+What is a lambda function in Python?
+What is the difference between a built-in function and a user-defined function?
